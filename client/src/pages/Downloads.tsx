@@ -2,7 +2,7 @@ import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Download, FileText, BookOpen, CheckCircle2, ArrowRight } from "lucide-react";
 
-export default function Downloads() {
+export default function DownloadsPage() {
   const resources = [
     {
       id: 1,
