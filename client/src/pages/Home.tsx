@@ -55,7 +55,7 @@ export default function Home() {
             <a href="#clausulas" className="text-sm font-medium hover:text-accent transition-colors">Cláusulas</a>
             <a href="#praticas" className="text-sm font-medium hover:text-accent transition-colors">Práticas</a>
             <a href="#faq" className="text-sm font-medium hover:text-accent transition-colors">FAQ</a>
-            <a href="/downloads" className="text-sm font-medium hover:text-accent transition-colors">Notícias do Blog</a>
+            <a href="#" className="text-sm font-medium hover:text-accent transition-colors">Notícias do Blog</a>
             <Button className="bg-accent hover:bg-accent/90 text-white">Baixar o ebook grátis</Button>
           </nav>
         </div>
@@ -322,7 +322,7 @@ export default function Home() {
               <h4 className="font-bold mb-4">Recursos</h4>
               <ul className="space-y-2 text-sm text-muted-foreground">
                 <li><a href="/" className="hover:text-accent transition-colors">Início</a></li>
-                <li><a href="/downloads" className="hover:text-accent transition-colors">Notícias do Blog</a></li>
+                <li><a href="#" className="hover:text-accent transition-colors">Notícias do Blog</a></li>
                 <li><a href="#" className="hover:text-accent transition-colors">Inscreva-se na Newsletter</a></li>
               </ul>
             </div>
