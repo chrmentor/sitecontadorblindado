@@ -323,7 +323,7 @@ export default function Home() {
               <ul className="space-y-2 text-sm text-muted-foreground">
                 <li><a href="/" className="hover:text-accent transition-colors">Início</a></li>
                 <li><a href="/downloads" className="hover:text-accent transition-colors">Notícias do Blog</a></li>
-                <li><a href="#" className="hover:text-accent transition-colors">Blog</a></li>
+                <li><a href="#" className="hover:text-accent transition-colors">Inscreva-se na Newsletter</a></li>
               </ul>
             </div>
             <div>
@@ -337,14 +337,14 @@ export default function Home() {
             <div>
               <h4 className="font-bold mb-4">Conecte-se</h4>
               <ul className="space-y-2 text-sm text-muted-foreground">
-                <li><a href="#" className="hover:text-accent transition-colors">LinkedIn</a></li>
+                <li><a href="#" className="hover:text-accent transition-colors">Facebook</a></li>
                 <li><a href="#" className="hover:text-accent transition-colors">Instagram</a></li>
-                <li><a href="#" className="hover:text-accent transition-colors">WhatsApp</a></li>
+                <li><a href="#" className="hover:text-accent transition-colors">Contato</a></li>
               </ul>
             </div>
           </div>
           <div className="border-t border-border pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
-            <p className="text-sm text-muted-foreground">© 2024 Contador Blindado. Todos os direitos reservados.</p>
+            <p className="text-sm text-muted-foreground">© 2025 Contador Blindado. Todos os direitos reservados.</p>
             <p className="text-sm text-muted-foreground">Desenvolvido com ❤️ para contadores que não brincam em serviço.</p>
           </div>
         </div>
